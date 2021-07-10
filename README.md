@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nbbarrientos
+- 👋 Hi, I’m Nelson
 
 <!---
 nbbarrientos/nbbarrientos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
